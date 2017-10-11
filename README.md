@@ -33,3 +33,4 @@ git config --global color.ui auto
 * [https://www.gitignore.io/](https://www.gitignore.io/)
 * [Git bible](https://gist.github.com/dmglab/8402579) : A set of general guidelines on how and when to branch, naming guidelines and other good practices. MUST READ after you're familiar with branching and merging.
 * [r/git](https://www.reddit.com/r/git/top/)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html)
