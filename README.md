@@ -14,6 +14,11 @@ git config --global color.ui auto
 ![cheatsheet](https://i.redd.it/8341g68g1v7y.png)
 
 ### How to be a part of this repo
+* Use [The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) for detailed steps.
+* Fork this repo.
+* Create a file called YOUR-NAME.txt and add your Github and pretty much anything you want to it.
+* Submit a pull request and wait for it to get merged!
+
 
 
 #### How to make your terminal look like mine
